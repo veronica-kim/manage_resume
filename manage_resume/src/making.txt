@@ -1,0 +1,11 @@
+// input 
+
+1. login
+2. manage_resume
+
+// output
+1. admin
+ - resume list
+
+2. normal
+ - owner's resume content
