@@ -9,3 +9,9 @@
 
 2. normal
  - owner's resume content
+ 
+ // add function
+ 1. join
+ 2. login
+ 3. insert personal info
+ 
