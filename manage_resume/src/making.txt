@@ -13,5 +13,5 @@
  // add function
  1. join
  2. login
- 3. insert personal info
- 
+ 3. insert personal info - name, id, password, address, email
+ 4. modify
